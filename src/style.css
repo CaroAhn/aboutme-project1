@@ -17,6 +17,7 @@ h1 {
 h2 {
   font-size: 48px;
 }
+
 h3 {
   font-size: 24px;
   opacity: 0.7;
@@ -111,4 +112,17 @@ p {
 
 .contact-me {
   font-size: 48px;
+}
+
+.introduction {
+  font-size: 48px;
+}
+
+.name {
+  font-size: 96px;
+}
+
+.presentation {
+  font-size: 24px;
+  opacity: 0.7;
 }
